@@ -1,14 +1,5 @@
 /**
- *                          FINAL YEAR PROJECT
- *                          -------------------
- *   This is the final year student project,this project was written
- *   from scratch by Bakari Said who is the Student at the Open University of Tanzania.
- *   the main goal of this project is to demonstrate student ability on the
- *   knowledge he has gained throught out his study session.
- *
- *   the following are credentials of the author of this work:
- *
- *   Name: Bakari Said
+ *   Authon: Bakari Said
  *   Email: chanogab@gmail.com
  *   Contacts: +255716162784/+255742863986
  *
